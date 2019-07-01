@@ -101,7 +101,7 @@ To enable server to record port statistics, do the followings on server:
     exit 0
 ```
 *  Install MySQL and Create a database with general credentials:
-   ``` User: root, Pass: sam#solution, Database: portstat ```
+   ``` User: root, Pass: password, Database: portstat ```
 *  Install python mysql.connection `pip install mysql.connector`
 *  `nano /etc/portstat.conf` and paste the below snippet: **[Don't forget to define PORT Range]**
     ``` 
