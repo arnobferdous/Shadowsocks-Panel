@@ -1,0 +1,22 @@
+{
+  "0": {
+    "full_name": "No User",
+    "email": "no@user.com",
+    "phone_number": "232423423",
+    "type": "monthly",
+    "servers": {
+      "0": {
+        "server": "1.1.1.1",
+        "server_name": "Test Server",
+        "port": 9001,
+        "password": "asdasdasd",
+        "method": "chacha20",
+        "sslink": "ss:\/\/32434wasdasd32we131231212312323234asdasdaasdasde23423423",
+        "created_at": 1561879094,
+        "status": "active"
+      }
+    },
+    "created_at": 1561879094,
+    "status": "active"
+  }
+}

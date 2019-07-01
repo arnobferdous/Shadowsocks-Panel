@@ -1,0 +1,19 @@
+{
+    "name": "arnob/socket",
+    "description": "Php Socket Server",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Md Fakhar Uddin Arnob",
+            "email": "ureca20@gmail.com"
+        }
+    ],
+    "minimum-stability" : "dev",
+    "prefer-stable": true,
+    "require": {
+        "roave/security-advisories": "dev-master",
+        "prodigyview/prodigyview": "dev-master",
+      "ext-json": "*",
+        "ext-iconv": "*"
+    }
+}
